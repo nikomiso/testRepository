@@ -29,6 +29,7 @@ public class form {
 		placeComponents(panel);
 		frame.setVisible(true);		
 		
+		
 	}
 		
 //i methodos ayti dimiourgei to GUI k prosthetei ta antikeimena sto panel mas
